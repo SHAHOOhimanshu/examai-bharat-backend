@@ -1,19 +1,18 @@
-# Build folders
+# Build results
 bin/
 obj/
 
-
 # Visual Studio
 .vs/
+.vscode/
+
+# User-specific files
 *.user
 *.suo
 
-# Logs
-*.log
-
-# Rider / VS Code (optional)
-.idea/
-.vscode/
+# Environment / secrets
+ExamAI.API/appsettings.Development.json
+**/appsettings.Development.json.env
 
 # OS files
 .DS_Store

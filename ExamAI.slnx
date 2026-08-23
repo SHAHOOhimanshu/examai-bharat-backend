@@ -1,0 +1,6 @@
+<Solution>
+  <Project Path="ExamAI.API/ExamAI.API.csproj" />
+  <Project Path="ExamAI.Application/ExamAI.Application.csproj" />
+  <Project Path="ExamAI.Domain/ExamAI.Domain.csproj" />
+  <Project Path="ExamAI.Infrastructure/ExamAI.Infrastructure.csproj" />
+</Solution>
